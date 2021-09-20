@@ -36,6 +36,9 @@ You can click the Preview link to take a look at your changes.
      <p align="center">
   <img src="https://raw.githubusercontent.com/shopeevpn/freeversion/main/picture/s04.PNG">
    </p>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/shopeevpn/freeversion/main/picture/s07.PNG">
+   </p>
   
   ## Register FREE IP : Contact Telegram @vpnshopee <a href="https://t.me/vpnshopee" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
   ## Installation :
