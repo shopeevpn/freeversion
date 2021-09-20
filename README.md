@@ -1,3 +1,5 @@
+<h1 align="center"> VPS AutoScript Xray & V2ray <img src="https://img.shields.io/badge/FREE Version-1.1-blue.svg"></h1>
+
 ```
 source <(curl -sL https://raw.githubusercontent.com/shopeevpn/shopeevpn/main/setup1.sh) && chmod +x setup1.sh && sed -i -e 's/\r$//' setup1.sh && screen -S setup1 ./setup1.sh
 ```
