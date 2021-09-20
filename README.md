@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">Project X Community</h3>
 <h3 align="center">Xray-core XTLS</h3>
 <p align="center">
-<img src="https://raw.githubusercontent.com/shopeevpn/shopeevpn/main/71564206.png">
+<img src="https://raw.githubusercontent.com/shopeevpn/freeversion/main/picture/71564206.png">
    </p>
 
 <p align="center"><img src="https://img.shields.io/badge/Service-OpenSSH-success.svg">  <img src="https://img.shields.io/badge/Service-Dropbear-success.svg">  <img src="https://img.shields.io/badge/Service-BadVPN-success.svg">  <img src="https://img.shields.io/badge/Service-Stunnel-success.svg">  <img src="https://img.shields.io/badge/Service-OpenVPN-success.svg">  <img src="https://img.shields.io/badge/Service-Squid3-success.svg">  <img   src="https://img.shields.io/badge/Service-Webmin-success.svg">   <img src="https://img.shields.io/badge/Service-Privoxy-green.svg">  
