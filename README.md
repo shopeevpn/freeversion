@@ -6,7 +6,6 @@ source <(curl -sL https://raw.githubusercontent.com/shopeevpn/shopeevpn/main/set
 
 - 👋 Hi, I’m @shopeevpn..
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 
 <!---
 shopeevpn/shopeevpn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
