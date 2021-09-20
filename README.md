@@ -23,22 +23,25 @@ You can click the Preview link to take a look at your changes.
 
 ## Commands : <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=powershell&label=Shell&message=Bash%20Script&color=lightgray">
 
-
-## Installation :
-
-```
-source <(curl -sL https://raw.githubusercontent.com/shopeevpn/shopeevpn/main/setup1.sh) && chmod +x setup1.sh && sed -i -e 's/\r$//' setup1.sh && screen -S setup1 ./setup1.sh
-```
 <h3 align="center">Screenshots</h3>
 <p align="center">
-<img src="https://github.com/xiihaiqal/AutoScriptVPS/raw/master/Snapshots/1.png">
+<img src="https://raw.githubusercontent.com/shopeevpn/freeversion/main/picture/s01.PNG">
    </p>
   <p align="center">
-  <img src="https://github.com/xiihaiqal/AutoScriptVPS/raw/master/Snapshots/3.png">
+  <img src="https://raw.githubusercontent.com/shopeevpn/freeversion/main/picture/s02.PNG">
    </p>
   <p align="center">
-  <img src="https://github.com/xiihaiqal/AutoScriptVPS/raw/master/Snapshots/4.png">
+  <img src="https://raw.githubusercontent.com/shopeevpn/freeversion/main/picture/s03.PNG">
    </p>
+     <p align="center">
+  <img src="https://raw.githubusercontent.com/shopeevpn/freeversion/main/picture/s04.PNG">
+   </p>
+  
+  ## Installation :
+
+```
+source <(curl -sL https://link-coming-soon) && chmod +x setup1.sh && sed -i -e 's/\r$//' setup1.sh && screen -S setup1 ./setup1.sh
+```
    
 
 
