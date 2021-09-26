@@ -46,8 +46,10 @@ You can click the Preview link to take a look at your changes.
 ```
   sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://github.com/shopeevpn/freeversion/raw/main/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && screen -S setup ./setup.sh
 ```
-   
-
+kalau error masa install [screen is terminating]
+```   
+chmod +x /var/run/screen
+```  
 
 ## Description :
 =====================================-{ Autoscript Premium }-===============================
